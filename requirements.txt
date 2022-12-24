@@ -1,0 +1,6 @@
+mindspore~=1.9.0
+torch~=1.0.2
+numpy~=1.21.5
+loguru~=0.5.3
+transformers~=4.24.0
+
